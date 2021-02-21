@@ -1,5 +1,7 @@
 ---
-title: "My first story"
+title: "Blog Post 1"
 ---
 
-It was a dark and stormy night...
+This is my first post about *Data Feminism*. 
+
+Talk about Hidden Figures movie. 
