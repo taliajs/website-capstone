@@ -1,7 +1,18 @@
 ---
-title: "Blog Post 1"
+title: "'Hidden Figures' vs Today: What Has Changed?"
 ---
 
-This is my first post about *Data Feminism*. 
+The introduction of *Data Feminism*^[Introduction: https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/4], highlights Christine Darden, a human computer who worked at NASA, whose story was brought to life through the book: *Hidden Figures: The American Dream and the Untold Story of the Black Women Who Helped Win the Space Race*. The book also features three African American female mathematicians who also worked at NASA around the same time as Darden: Katherine Johnson, Dorothy Vaughan and Mary Jackson, who are portrayed in the film adaption of the book. (Katherine Johnson is portrayed by Taraji P Henson, Dorothy Vaughn is portrayed by Octavia Spencer, and Mary Jackson is portrayed by Janelle Monáe).
 
-Talk about Hidden Figures movie. 
+I love the film Hidden Figures. I saw it multiple times in theaters, and have watched it many times at home. One thing that hit home for me was how the characters in the film had to advocate and stand up for themselves and others. Some of the scenes that stand out to me are: 
+
+- The bathroom scene^[https://www.youtube.com/watch?v=hNK8FCFpmm4]
+- The go no-go scene^[https://www.youtube.com/watch?v=JAEnv1PvBvw], where Katherine's boss gives the floor to Katherine to calculate the go-no-go zone for reentry.
+- When Dorothy Vaughn had to continually advocate herself to be promoted to supervisor (as the work she was doing was equivalent to a supervisor), and when she finally was promoted to be a supervisor for the IBM computers (which happened because she taught herself Fortram, and got the computer to turn on)^[https://www.youtube.com/watch?v=x5GV7ODht78], only agreeing if her co-workers are also transferred (as she taught them Fortram)^[https://www.youtube.com/watch?v=Nxpo2_q7DEQ], and she knew they were capable. 
+- When John Glenn wants Katherine to double check the capsule's landing coordinates after the IBM machine had discrepancies ^[https://www.youtube.com/watch?v=mdxXT8INVV8].
+
+There are so many more scenes I can talk about, but these are the ones that stand out the most to me. Both these characters earned a level of respect from their colleagues and their superiors, but it wasn't an easy journey. This advocacy and standing up for yourself is something that is still common in today's workplace for women, unfortunately (Whether it's proving yourself through your work and skills, or speaking up during meetings to make your voice heard).
+
+Hidden Figures took place in the 1960s, and we are still experiencing some of the issues that were displayed in the film today. Out of the top Fortune 500 companies, only **7.4%** of have female CEOs (37 companies out of Fortune's 500 2020 list); this was a new all-time high record ^[https://fortune.com/2020/05/18/women-ceos-fortune-500-2020/] ^[https://en.wikipedia.org/wiki/List_of_women_CEOs_of_Fortune_500_companies]. Out of the Fortune 500 female CEOs, only 3 of them are women of color^[https://www.cnn.com/2020/05/20/us/fortune-500-women-ceos-trnd/index.html]. Additionally, within these Fortune 500 companies, women hold 21.2% of the board seats, 26.5% are executive/senior level officials and managers, and 11% of them are top earners^[https://www.catalyst.org/research/women-in-sp-500-companies/]. Not only that, but the first all-female spacewalk took place on October 18th, 2019. It's crazy to think that about the accomplishments of the women featured in Hidden Figures, and the barriers they were able to break, and yet the first all-female spacewalk didn't happen until the 21st century. While progress has been made in terms of representation (of females and people of color), there is still a long way to go. This reminds me of a quote that was mentioned in the film: "Progress is a double-edge sword". Progress is made in some areas, and in other areas it's at a standstill. 
+
+Date: 2/21/21 (February 21st, 2021)
