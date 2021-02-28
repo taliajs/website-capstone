@@ -15,3 +15,4 @@ TO DO:
 - Write a quick blurb (this is my website for my SDS capstone, etc): i will be writing blog posts on the book for this class, Data Feminism 
 - insert image of book
 - get SDS 410 to appear on the home page and blog post 1
+- also get the index.html to appear in git so I can commit it 
