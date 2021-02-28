@@ -18,13 +18,13 @@ navbar:
           href: post2.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:
     - icon: fa-github
-      href: http://www.github.com/beanumber
+      href: 
     - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href:
 
 output:
   html_document:
