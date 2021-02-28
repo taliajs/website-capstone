@@ -11,9 +11,7 @@ And images:
 
 ![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
 
-And don't forget about R code:
-
-```{r}
-knitr::kable(mtcars)
-```
-
+TO DO: 
+- Write a quick blurb (this is my website for my SDS capstone, etc): i will be writing blog posts on the book for this class, Data Feminism 
+- insert image of book
+- get SDS 410 to appear on the home page and blog post 1
