@@ -1,5 +1,5 @@
 ---
-title: "My second story"
+title: "Blog Post 2"
 ---
 
-It was the best of times, it was the worst of times...
+Talk about my CSC 212 final project: program that has biases. COMPAS, an algorithm/program for recidivism.
