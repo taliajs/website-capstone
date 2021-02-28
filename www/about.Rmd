@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-blah blah blah
+I am a senior at Smith College majoring in Statistical & Data Sciences and minoring in Neuroscience.
