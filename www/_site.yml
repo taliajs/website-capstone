@@ -24,7 +24,7 @@ navbar:
     - icon: fa-twitter
       href: 
     - icon: fa-linkedin
-      href:
+      href: https://www.linkedin.com/in/talia-seshaiah-67847a169/
 
 output:
   html_document:
