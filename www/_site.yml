@@ -18,7 +18,7 @@ navbar:
           href: post2.html
   right:
     - icon: fa-envelope 
-      href: tseshaiah@smith.edu
+      href: mailto:tseshaiah@smith.edu
     - icon: fa-github
       href: https://github.com/taliajs
     - icon: fa-twitter
