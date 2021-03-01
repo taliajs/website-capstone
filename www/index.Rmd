@@ -15,5 +15,5 @@ I will be writing blog posts on the book for this class, *Data Feminism* by Cath
 #knitr::include_graphics("/Users/tseshaiah/Desktop/SDS 410 #Capstone/website-capstone/www/data-feminism-cover.jpg") 
 ```
 
-![](/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/www/data-feminism-cover.jpg)
+  ![](/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/www/data-feminism-cover.jpg)
 
