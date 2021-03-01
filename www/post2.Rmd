@@ -2,6 +2,7 @@
 title: "Beneath the Surface Level: Examining the Flaws in the Algorithms, Software, and Programs Around Us"
 ---
 
+
 This chapter was all about examining power. One of the main ideas mentioned was the idea of the underlying biases and/or discrimination that exists in the algorithms and programs that are being used in today's world. The authors mentioned how there are "problems of gender and racial bias in our information systems". This topic reminded me of a project I did for my CSC 212 (Programming with Data Structures/Java) class. We wrote our final paper on analyzing biases in code. 
 
 My group and I were looking at a program called **COMPAS** (Correctional Offender Management Profiling for Alternative Sanctions), which is a recidivism risk assessment program used in some U.S courts to assess the likelihood of a defendant becoming a recidivist (this term is used to label a criminal who continuously reoffends). This recidivism score has played in the role in the criminal justice system as some judges will take this score into account when determining sentencing. (A higher recidivism score may lead to a higher sentencing and/or harsher restrictions- no parole, etc.)
