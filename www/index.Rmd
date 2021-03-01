@@ -1,18 +1,14 @@
 ---
-title: "My website"
+title: "SDS Capstone"
 output:
   html_document:
     toc: false
 ---
 
-Write stuff in Markdown here. Like **bold** things and *italic* things. 
+### This website is for my SDS capstone class. 
 
-And images:
+I will be writing blog posts on the book for this class, *Data Feminism* by Catherine D'Iganzio and Lauren F. Klein
 
-![](https://media.giphy.com/media/1hqYk0leUMddBBkAM7/giphy.gif)
 
-TO DO: 
-- Write a quick blurb (this is my website for my SDS capstone, etc): i will be writing blog posts on the book for this class, Data Feminism 
-- insert image of book
-- get SDS 410 to appear on the home page and blog post 1
-- also get the index.html to appear in git so I can commit it!
+![](C:/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/data-feminism-cover.jpg)
+
