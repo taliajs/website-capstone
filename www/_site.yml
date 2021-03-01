@@ -23,7 +23,7 @@ navbar:
       href: https://github.com/taliajs
     - icon: fa-twitter
       href: 
-    - icon: fa-linkedin
+    - icon: fa-home
       href: https://www.linkedin.com/in/talia-seshaiah-67847a169/
 
 output:
