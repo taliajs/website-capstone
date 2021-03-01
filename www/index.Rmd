@@ -7,8 +7,12 @@ output:
 
 ### This website is for my SDS capstone class. 
 
-I will be writing blog posts on the book for this class, *Data Feminism* by Catherine D'Iganzio and Lauren F. Klein
+I will be writing blog posts on the book for this class, *Data Feminism* by Catherine D'Iganzio and Lauren F. Klein.
 
 
-![](C:/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/data-feminism-cover.jpg)
+```{r echo=FALSE}
+library(knitr)
+knitr::include_graphics("/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/data-feminism-cover.jpg") 
+```
+![](/Users/tseshaiah/Desktop/SDS 410 Capstone/website-capstone/SpringReign2017.jpg)
 
