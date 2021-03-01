@@ -19,7 +19,7 @@ navbar:
   right:
     - icon: fa-envelope 
       href: mailto:tseshaiah@smith.edu
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/taliajs
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/talia-seshaiah-67847a169/
