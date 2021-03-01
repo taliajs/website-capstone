@@ -21,9 +21,7 @@ navbar:
       href: mailto:tseshaiah@smith.edu
     - icon: fa-github
       href: https://github.com/taliajs
-    - icon: fa-twitter
-      href: 
-    - icon: fa-home
+    - icon: fa-linkedin
       href: https://www.linkedin.com/in/talia-seshaiah-67847a169/
 
 output:
