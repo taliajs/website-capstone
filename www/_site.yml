@@ -16,6 +16,8 @@ navbar:
           href: post1.html
         - text: "Post 2"
           href: post2.html
+        - text: "Post 3"
+          href: post.html
   right:
     - icon: fa-envelope 
       href: mailto:tseshaiah@smith.edu
