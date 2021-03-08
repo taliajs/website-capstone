@@ -1,3 +1,12 @@
 ---
-title: "Blog Post 3"
+title: "Chapter 2"
 ---
+
+Analyzing data and machine learning algorithms seemed to be a focus of this chapter. A major focus of this chapter was on a risk recidivism assessment called COMPAS (which I talked more about in Blog Post 2), which highlighted the racial biases in this assessment/program, and also about the data being used. Something was interesting to me was when the authors mentioned "*auditing algorithms*, which they stated meant collecting missing data and reverse engineering the algorithm to uncove potential biases, flaws, etc. In the case of COMPAS, the researchers/team (Julia Angwin and her team) were able to prove systemic bias in the COMPAS algorithm that was judging each defendant's risk of recidivising. 
+
+An area of interest for me is healthcare (specifically the biostatistics side --> health data, clinical trials, etc). I wanted to explore how machine learning and data is present in healthcare. Big data is very present in healthcare and "refers to the abundant health data amassed from numerous sources including electronic health records (EHRs), medical imaging, genomic sequencing, payor records, pharmaceutical research, medical devices, etc."  ^[https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0290].Big data most likely means algorithms, programs, software, etc. to help handle and analyze these large amounts of data. This makes me wonder about the different types of concerns one may have depending on the type of algorithm. For example, when it comes to health data: how do you keep the patient's information safe? If you have a software to help predict and plan treatment, what are the factors/variables being inputted? Is the prediction based on the patient's health data history or from a wider range (other people in similar age bracket, etc). 
+
+I was also curious about learning more about algorithm auditing. I am currently taking a machine learning class, and we are exploring different papers from past conferences. I found an interesting paper (just the abstract) about framework for algorithm auditing called *"Closing the AI accountability gap: defining an end-to-end framework for internal algorithm auditing"^[https://dl.acm.org/doi/abs/10.1145/3351095.3372873].
+
+
+
