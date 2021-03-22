@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2"
+title: "Machine Learning and Data in Healthcare"
 ---
 
 Analyzing data and machine learning algorithms seemed to be a focus of this chapter. A major focus of this chapter was on a risk recidivism assessment called COMPAS (which I talked more about in Blog Post 2), which highlighted the racial biases in this assessment/program, and also about the data being used. Something was interesting to me was when the authors mentioned *auditing algorithms*, which they stated meant collecting missing data and reverse engineering the algorithm to uncove potential biases, flaws, etc. In the case of COMPAS, the researchers/team (Julia Angwin and her team) were able to prove systemic bias in the COMPAS algorithm that was judging each defendant's risk of recidivising. 

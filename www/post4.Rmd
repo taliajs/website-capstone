@@ -1,0 +1,27 @@
+---
+title: "A New Perspective on Data Visualizations"
+---
+
+> "Should a visualization be designed to evoke emotion?"
+
+This quote really struck me while reading Chapter 3 of *Data Feminism*. This chapter introduces the idea of **data visceralization**, which is essentially embracing the idea of leveraging emotion in data visualization. After reading some of the examples in the book (Guerilla Girls infographic, and *A Sort of Joy*, a theater group that scripts live performances based on data visualizations), my new perspective on data visualization is **data as more of an art form**.
+
+Art is powerful and emotional, and is something that can be used along with data visceralization to create more unique and powerful data visualizations. Also, having this mindset allows more possibilities for data visualizations and data in general. For example, one possibility could be using virtual reality and simulations as a way of showing and explaining data. With virtual reality, you could create simulations to show data (e.g having a simulation that shows endangered species, and how their species became endangered --> through human intervention, deforestation, etc.) Those interactive data visualizations are presenting data in a way where a story is being told. Storytelling can be used as another form of data visualization (and another way of presenting and visualizing data). 
+
+Another example is a time-lapse. For instance, the time lapses of icebergs/icecaps melting over time is far more powerful than a graph showing the rate of icebergs melting over a period. Seeing the effects of global warming through a timelapse video (the icebergs melting faster over time) is more powerful than a graph, because it evokes emotion.
+
+Thinking of data as more of an art form allows for more creativity, and more unique ways for creating powerful data visualizations that will make people feel something. A perfect example of "data can be art" is data visualizations surrounding the brain. 
+
+  ![Neural network of the brain. Source: https://www.nature.com/articles/d41586-018-02174-z](/Users/smith/Documents/School/SDS Capstone/website-capstone/www/brain-visualization.jpeg)
+
+Brain visualizations are unique in that they defy the "standard" or conventional methods of data visualizations. There is a really cool interactive brain visualization tool that  allows you to look at voxel-wide models (generated from fMRI data) that predict brain activity based on the meaning of words in a story. You can learn more about it [here](https://gallantlab.org/huth2016/). This tool is a perfect example of art meeting data. Data is being shown in an interactive way that more effectively gets the point across as people will be engaged and connect with it more (through the interactive features). In the neuroscience field, these types of brain visualizations are not uncommon - Neuroscience is a field where visualizations of the brain are almost like art. 
+
+The new perspective on data visualizations: data + art. 
+
+_________________________________________________________________________________________
+Additional Sources: 
+
+- More on data visualization (where I originally found the image) https://towardsdatascience.com/data-visualization-a-catalyst-to-human-cognition-4c851e8f7b2
+
+- More about the brain visualization tool: https://blog.eyewire.org/a-beautiful-brain-visualization-tool/
+
